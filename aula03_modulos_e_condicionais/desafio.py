@@ -10,4 +10,4 @@ elif idade_usuario > 70:
     print("Voto opcional")
 else:
     print("Erro!!")
-#S
+#S#S
