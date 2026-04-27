@@ -15,3 +15,4 @@ def soma(num_a, num_b):
 
 print(soma(27, 12))
 print(type(nome_digitado))
+#S
