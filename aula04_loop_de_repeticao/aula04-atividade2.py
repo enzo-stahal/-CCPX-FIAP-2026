@@ -14,4 +14,4 @@ notaB = validar_nota(notaB)
 media = (notaA + notaB) / 2
 print(media)
 
-# 67676767#S#S#S
+# 67676767#S#S#S#S
