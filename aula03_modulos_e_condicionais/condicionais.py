@@ -48,5 +48,3 @@ else:
 
 
 print("FIM")
-
-#S#S#S#S#S#S
