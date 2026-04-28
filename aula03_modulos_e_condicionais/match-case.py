@@ -12,4 +12,3 @@ match escolha_usuario:
         print("Entrar no programa")
     case _:
         print("Erro!!")
-        # S#S#S#S#S#S
